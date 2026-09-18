@@ -1,0 +1,3 @@
+Open In Visual Studio Code.
+SDK 8.0 Required.
+Run (dotnet run).
